@@ -106,3 +106,13 @@ p{
   margin-top: 50px;
   font-size: -webkit-xxx-large;
 }
+
+h4 { 
+  color: #333; 
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: -1px;  
+  background: white; /* fallback color */
+  opacity: 0.8;
+  padding: 10px; 
+  border-radius: 5px;
+}
