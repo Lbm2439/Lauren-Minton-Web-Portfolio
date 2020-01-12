@@ -90,3 +90,19 @@ p{
     border-color: transparent;
     background-color: transparent;
 }
+.dot {
+  height: 150px;
+  width: 150px;
+  background-color: rgb(209, 151, 74);
+  border-radius: 50%;
+  display: inline-block;
+  margin: 20px;
+}
+.fas{
+  margin-top: 50px;
+  font-size: -webkit-xxx-large;
+}
+.far{
+  margin-top: 50px;
+  font-size: -webkit-xxx-large;
+}
