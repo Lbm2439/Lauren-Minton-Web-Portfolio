@@ -17,13 +17,13 @@ header{
 
 header a{
   color: #333;
-  background:white; 
+  background: transparent; 
   display:inline-block; 
   padding:0px 30px; 
   height:60px;
   line-height:60px; 
   text-align:center;
-  font-family: 'Roboto Slab', serif; 
+  font-family: 'Roboto', sans-serif; 
   text-decoration:none;
   text-transform:uppercase; 
   letter-spacing:2px; 
@@ -60,7 +60,7 @@ header a{
   width:100%;
 }
 
-.hero h1, .hero p{ 
+.hero h1, .hero { 
   color: #333;
 }
 
@@ -70,14 +70,23 @@ header a{
 
 h1{
   margin:0px;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto', sans-serif;
   font-weight:400;
   font-size:32px;
   padding:0px 20px;
+  font-size: -webkit-xxx-large;
 }
 
 p{
   font-family: 'Noto Sans', sans-serif; 
-  font-size:14px;
+  font-size:24px;
   padding:0px 20px;
+  color: rgb(107, 107, 107);
+}
+.btn{
+    font-size: 3rem;
+    color: #333;
+    margin: 1rem;
+    border-color: transparent;
+    background-color: transparent;
 }
