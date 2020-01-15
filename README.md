@@ -1,4 +1,4 @@
-# Portfolio-Lauren-Minton
+# Lauren-Minton-Web-Portfolio
 
 My online portfolio was created as a unique platform
 to display my creaitive capabilities, works, and ideas.
@@ -8,4 +8,4 @@ My Portfolio is a responsive web application.
 ![Photo Of Application](assets/portfolio-1.png)<br>
 ![Photo Of Application](assets/portfolio-2.png)<br>
 Link to Website:<br>
-https://lbm2439.github.io/Portfolio-Lauren-Minton/
+https://lbm2439.github.io/Lauren-Minton-Web-Portfolio/
