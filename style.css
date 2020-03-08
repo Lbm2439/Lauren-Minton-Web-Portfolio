@@ -103,7 +103,8 @@ p {
   background-color: rgb(209, 151, 74);
   border-radius: 50%;
   display: inline-block;
-  margin: 20px;
+  margin: 35px;
+  margin-left: 130px;
 }
 .fas {
   margin-top: 50px;
@@ -122,4 +123,9 @@ h4 {
   opacity: 0.8;
   padding: 10px;
   border-radius: 5px;
+  width: 32vh;
+  margin-left: -4.5vh;
+}
+.port{
+  margin-top: -30vh;
 }
